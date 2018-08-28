@@ -70,6 +70,13 @@ a {
 	
 	text-decoration: none; 
 }
+.myimage {
+	
+	width: 340px;
+	height: 335px;
+	margin: 20px;
+	border-radius: 50%;
+}
 
 a {
 	background-color: transparent;
