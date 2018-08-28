@@ -1,0 +1,89 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+header
+{
+	background:teal;
+	display:block;
+	text-align: center;
+	
+}
+h1,h2
+{
+	color:white;
+	font-family: 'Bookman Old Style'; font-size: 24px; font-style: normal;
+}
+
+.main-nav
+{
+	text-align: center;
+	list-style: none;
+	margin-top: 25px;
+	color:white;
+	
+}
+
+.main-nav li
+{	
+	display:inline-block;
+}
+
+.main-nav li a
+{
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	
+	font-family: "Roboto", sans-serif;
+
+}
+
+body
+{	
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	
+	text-align:center;
+}
+#dept {
+	max-width: 940px;
+	margin: 0 auto;
+	
+	text-align:left;
+}
+
+.profile {
+	
+	float: center;
+}
+
+a {
+	
+	text-decoration: none; 
+}
+
+a {
+	background-color: transparent;
+	color: navyblue;
+}
+.programs li{
+	list-style: inside;
+}
+
+
+footer {
+	font-size: 0.75em;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+	
+}
